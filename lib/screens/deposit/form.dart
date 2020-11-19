@@ -3,7 +3,7 @@ import 'package:flutter_provider_example/components/editor.dart';
 import 'package:flutter_provider_example/models/balance.dart';
 import 'package:provider/provider.dart';
 
-const _titleAppBar = 'Receiving a deposit';
+const _titleAppBar = 'Receiving a new deposit';
 const _labelFieldValue = 'Value';
 const _hintFieldValue = '0.00';
 const _buttonConfirm = 'CONFIRM';
