@@ -1,16 +1,21 @@
-# flutter_provider_example
+# Flutter Provider Example
 
-A new Flutter project.
+A project using provider to state management.
 
-## Getting Started
+This app simulate an bank account where the user can deposit money in his/her own account or send money (transfer) to different account.
+The app maintain the list of last transfers/deposits.
+The user can check the whole transfer historic
 
-This project is a starting point for a Flutter application.
+I've implemented it based on a Flutter online course (Alura:https://cursos.alura.com.br/course/flutter-gerenciamento-estados-provider)
 
-A few resources to get you started if this is your first Flutter project:
+- List View
+- Switch between different screens
+- Provider - state management
+- Send information to another screen (Navigator push/pop) / Routes
+- StatelessWidget
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Tested in Android and iOS
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots:
+
+<img src="https://github.com/leonardopresoto/flutter_provider_example/blob/main/screenshots/layout1.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_provider_example/blob/main/screenshots/layout2.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_provider_example/blob/main/screenshots/layout3.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_provider_example/blob/main/screenshots/layout4.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_provider_example/blob/main/screenshots/layout5.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_provider_example/blob/main/screenshots/layout6.png" height="500" /> <img src="https://github.com/leonardopresoto/flutter_provider_example/blob/main/screenshots/layout7.png" height="500" />
