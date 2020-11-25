@@ -12,7 +12,7 @@ I've implemented it based on a Flutter online course (Alura:https://cursos.alura
 - Switch between different screens
 - Provider - state management
 - Send information to another screen (Navigator push/pop) / Routes
-- StatelessWidget
+- StatelessWidget (chaning state due the provider)
 
 Tested in Android and iOS
 
